@@ -1,0 +1,14 @@
+{
+    "python.pythonPath": "C:\\Users\\Laz3on\\.virtualenvs\\meal_planner-aOiDXwsY\\Scripts\\python.exe",
+    "python.formatting.provider": "autopep8",
+    "sqltools.connections": [
+        {
+            "database": ".\\mydatabase.db",
+            "dialect": "SQLite",
+            "name": "connection"
+        }
+    ],
+    "python.linting.pycodestyleEnabled": true,
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": false
+}

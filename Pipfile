@@ -1,0 +1,21 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+black = "*"
+pep8 = "*"
+pylint = "*"
+autopep8 = "*"
+
+[packages]
+pyqt5 = "*"
+pyside2 = "*"
+sqlite3 = "==4.0.8"
+
+[requires]
+python_version = "3.7"
+
+[pipenv]
+allow_prereleases = true
